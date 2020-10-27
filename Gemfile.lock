@@ -506,7 +506,7 @@ GEM
       oauth
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2020.1)
+    tzinfo-data (1.2020.4)
       tzinfo (>= 1.0.0)
     uber (0.1.0)
     uglifier (4.2.0)
