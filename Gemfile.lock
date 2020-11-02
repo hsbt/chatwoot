@@ -5,14 +5,6 @@ GIT
   specs:
     mock_redis (0.22.0)
 
-GIT
-  remote: https://github.com/tzmfreedom/json_refs
-  revision: e32deb073ce9aef39bdd63556bffd7fe7c2a803d
-  ref: e32deb0
-  specs:
-    json_refs (0.1.2)
-      hana
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -258,6 +250,8 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (2.3.1)
+    json_refs (0.1.6)
+      hana
     jwt (2.2.2)
     kaminari (1.2.1)
       activesupport (>= 4.1.0)
@@ -583,7 +577,7 @@ DEPENDENCIES
   haikunator
   hashie
   jbuilder
-  json_refs!
+  json_refs
   jwt
   kaminari
   koala
