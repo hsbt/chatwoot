@@ -504,9 +504,9 @@ GEM
       nokogiri (>= 1.6, < 2.0)
     twitty (0.1.1)
       oauth
-    tzinfo (1.2.7)
+    tzinfo (1.2.9)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2020.1)
+    tzinfo-data (1.2020.5)
       tzinfo (>= 1.0.0)
     uber (0.1.0)
     uglifier (4.2.0)
