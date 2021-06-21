@@ -29,7 +29,7 @@
     "js-cookie": "^2.2.1",
     "lodash.groupby": "^4.6.0",
     "md5": "^2.3.0",
-    "query-string": "5",
+    "query-string": "7",
     "spinkit": "~1.2.5",
     "tailwindcss": "^1.8.3",
     "tween.js": "~16.6.0",
